@@ -1,47 +1,45 @@
 <h1 align="center">John Kenneth Balutan</h1>
 
 <p align="center">
-  <b>Full Stack Web Developer</b><br/>
-  PHP • Laravel • React • Node.js
+  <b>Full Stack Web Developer & AI Integration Specialist</b><br/>
+  Remote • Philippines
 </p>
 
 <p align="center">
-  <i>“I don’t just write code — I build systems that solve real business problems.”</i>
+  <i>“I build scalable systems that solve real-world business problems.”</i>
 </p>
 
 ---
 
 ## About
 
-I am a **Full Stack Web Developer** with experience building and deploying scalable, secure, and performance-driven web applications. I specialize in designing clean architectures, writing maintainable code, and delivering end-to-end solutions that solve real-world business problems.
+I am **John Kenneth Balutan**, a passionate and dedicated **Full Stack Web Developer** with **4+ years of experience** building and deploying dynamic, responsive, and database-driven web applications.
 
-I work comfortably across backend and frontend, collaborating with stakeholders to turn requirements into production-ready systems.
+I have successfully developed and deployed **15+ complete projects and websites**, helping businesses improve operations, performance, and user experience through reliable and scalable solutions.
 
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,tailwind,mysql,git,github" />
-</p>
+With a strong foundation in **backend development** (PHP, Laravel, Node.js) and **frontend technologies** (React, JavaScript, Tailwind CSS), I deliver **end-to-end systems** that are performant, secure, and user-friendly.
 
 ---
 
-## What I Do
-- Full-Stack Web Application Development  
-- REST API & Third-Party Integrations  
-- SaaS Platform Development  
-- AI & Voice AI Integration  
-- Performance Optimization, SEO & Core Web Vitals  
+## Core Strengths
+- Strong problem-solving and analytical skills  
+- Ability to work independently or as part of a team  
+- Dedicated to continuous learning and adapting to new technologies  
+- Clear and effective communication with clients and stakeholders  
 
 ---
 
-## GitHub Activity
+## Specializations
+- **Full-Stack Web Development** – From database design to user interface  
+- **API Development & Integration** – RESTful APIs, GraphQL, and third-party services  
+- **AI & Voice AI Integration** – OpenAI, VAPI, and custom AI-powered solutions  
+- **SaaS Platform Development** – Scalable software-as-a-service applications  
+- **Performance Optimization** – Core Web Vitals, SEO, and speed improvements  
+
+---
+
+## Technologies & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbkenth-dev&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbkenth-dev&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,vue,ts,html,css,tailwind,mysql,postgres,mongodb,git,github" />
 </p>
