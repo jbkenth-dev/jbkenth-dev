@@ -20,9 +20,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Experience-2022%20–%20Present-2F81F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-Since%202022-2F81F7?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Availability-Remote-success?style=for-the-badge&logo=googlemeet" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=3&section=header" />
