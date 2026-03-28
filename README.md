@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Web Developer & AI Integration Specialist</b><br/>
+  <b>Full Stack Web Developer</b><br/>
   Remote • Philippines
 </p>
 
