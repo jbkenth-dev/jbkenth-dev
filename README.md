@@ -83,7 +83,7 @@ My focus is on **clean architecture**, **scalable systems**, and **practical pro
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,vue,ts,html,css,tailwind,mysql,postgres,mongodb,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,vue,ts,html,css,tailwind,mysql,postgres,mongodb,git,github,nextjs&perline=8" />
 </p>
 
 <p align="center">
